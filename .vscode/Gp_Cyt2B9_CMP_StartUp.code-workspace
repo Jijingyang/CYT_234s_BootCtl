@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gp_bootctl_vct.h": "c",
+			"gp_bootctl_cfg.h": "c",
+			"gp_bootctl_types.h": "c"
+		},
+		"C_Cpp.commentContinuationPatterns": [
+			"/**"
+		]
+	}
+}
